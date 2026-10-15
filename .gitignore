@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.venv-test/
+venv/
+*.egg-info/
+app.log
+
+# 本地部署辅助脚本（不属于作业提交内容，含服务器信息）
+_touge.py
+_step*.sh
